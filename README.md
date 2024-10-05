@@ -1,4 +1,3 @@
-
 <h1 align="center">TermuX-Custom</h1>
 
 <p align="center"> 
